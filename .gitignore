@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.venv/
+env/
+__pycache__/
+
+# Logs & Environment
+*.log
+.env
+.env.local
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Local database files
+*.db
+*.sqlite3
