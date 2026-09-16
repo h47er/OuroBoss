@@ -1,0 +1,13 @@
+{
+  "name": "ouroboss",
+  "version": "1.0.0",
+  "description": "OuroBoss",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build": "echo \"Build completed\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
